@@ -1,0 +1,14 @@
+{
+  "name": "western-union-location-retrieval",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nautilytics/western-union-location-retrieval.git",
+  "author": "Chris <chris.lanoue@premise.com>",
+  "license": "MIT",
+  "dependencies": {
+    "await-to-js": "^3.0.0",
+    "json2csv": "^5.0.6",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
