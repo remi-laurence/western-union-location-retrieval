@@ -13,8 +13,8 @@ const countries = [{
     code: 'DO',
     cities: ['Santo Domingo']
 }, {
-    code: 'GH',
-    cities: ['Accra']
+    code: 'US',
+    cities: ['New York']
 }];
 
 (async () => {
